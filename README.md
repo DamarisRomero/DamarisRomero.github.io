@@ -2,10 +2,10 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del proyecto]()
-* [Link al demo!]()
+* [Intro](#Intro)
+* [¿Qué construí?](#¿Qué instruí?)
+* [Objetivos del proyecto](#Objetivos del proyecto)
+* [Link al demo!](#Link al demo!)
 
 *** 
 
