@@ -26,4 +26,4 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 Aprender a utilizar las etiquetas de HTML y las propiedades de CSS asi como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
 ## Link al Demo!
-Visualiza mi proyecto terminado aquí [Clonación de Google](DamarisRomero.github.io)
+Visualiza mi proyecto terminado aquí [Clonación de Google](https://damarisromero.github.io/)
